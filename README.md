@@ -1,7 +1,3 @@
-# 👋 Hi there, I'm Vikash Kumar 
-
-
----
-
-
+# 👋 Hi there, 
+I'm Vikash Kumar 
 
