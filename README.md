@@ -4,12 +4,15 @@
 </div>
 <p align="left">I 'm **Vikash Kumar** a tech enthusiastic and currently learning Artificial intelligence and Machine learning and also have some intrest in cybersecurity 
 </p>
-- ✨ Student of life :)
+
+### 🚀 Tech Enthusiast | Hackathon Explorer
+
 - 🌱 Learning AWS & Web Development
+-  ✨ Student of life :)
 - 💻 Interested in Cybersecurity & Tech
 - 🤝 Love collaborating with new people
-- 🌍 Travel & Nature Enthusiast
 - ⚡ No sleep, just code and creativity
+
 
 
 ## 💻 Tech Stack
