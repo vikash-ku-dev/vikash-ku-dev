@@ -5,7 +5,6 @@
 <p align="left">I 'm **Vikash Kumar** a tech enthusiastic and currently learning Artificial intelligence and Machine learning and also have some intrest in cybersecurity 
 </p>
 
-### 🚀 Tech Enthusiast | Hackathon Explorer
 
 - 🌱 Learning AWS & Web Development
 -  ✨ Student of life :)
