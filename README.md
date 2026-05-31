@@ -4,7 +4,7 @@
 <div>
   <img align="right" src="https://github.com/vikash-ku-dev/vikash-ku-dev/blob/main/owl.png?raw=true" width="30%"/>
 </div>
-<p align="left">I 'm Vikash Kumar a tech enthusiastic and currently learning Artificial intelligence and Machine learning and also have some intrest in cybersecurity 
+<p align="left">I 'm Vikash Kumar a tech enthusiastic and currently learning data visualization, Artificial intelligence and Machine learning and dalso have some intrest in cybersecurity 
 </p>
 
 
@@ -21,5 +21,5 @@
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,aws,git,github,vscode,opencv,NumPy,Pandas,machine learning,artificial intelligence" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,aws,git,github,vscode,opencv,NumPy,Pandas" />
 </p>
