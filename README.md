@@ -5,9 +5,10 @@
   <img align="right" src="https://github.com/vikash-ku-dev/vikash-ku-dev/blob/main/owl.png?raw=true" width="40%"/>
 </div>
 
-
+<P>
 ## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,aws,git,github,vscode,opencv,numpy,panda," />
 </p>
+</P>
