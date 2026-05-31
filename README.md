@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 Learning AWS & Web Development
+- 🌱 Learning and building with `AWS`
 -  ✨ Student of life :)
 - 💻 Interested in Cybersecurity & Tech
 - 🤝 Love collaborating with new people
@@ -19,7 +19,8 @@
 <br/>
 
 ## 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,aws,git,github,vscode,opencv,NumPy,Pandas" />
-</p>
+<div>
+<img align="Right" src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,aws,git,github,vscode,opencv,NumPy,Pandas" />
+</div>
+- Deepening myself in Machine learning and Artifice Intelligence
+- 
