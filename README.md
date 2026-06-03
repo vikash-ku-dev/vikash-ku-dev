@@ -20,7 +20,8 @@
 
 ## 💻 Tech Stack
 <div>
-<img align="Right" src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,aws,git,github,vscode,opencv,NumPy,Pandas" />
+<img align="Right" src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,aws,git,github,
+  vscode,opencv,NumPy,Pandas,Matplotlib" />
 </div>
 - Deepening myself in Machine learning and Artifice Intelligence
 - 
