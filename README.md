@@ -20,12 +20,18 @@
 
 ## 💻 Tech Stack
 <div>
-<img align="Centre" src="https://skillicons.dev/icons?i=cpp,python,java,html,css" />
+<img align="center" style="display:block; margin:auto;" src="https://skillicons.dev/icons?i=cpp,python,java,html,css" />
 </div>
+<br/>
 <div>
-<img align="Centre"src="https://skillicons.dev/icons?i=javascript,aws,git,github,vscode,opencv" />
+<img align="center" style="display:block; margin:auto;" src="https://skillicons.dev/icons?i=javascript,aws,git,github,vscode" />
 </div>
+<br/>
+<div>
+<img align="center" style="display:block; margin:auto;" src="https://skillicons.dev/icons?i=opencv" />
+</div>
+<br/>
 
-- Deepening myself in Machine learning and Artifice Intelligence
-- Intrested in Cybersecurity
-- Buildiing project in data Visualization and Computer Vision 
+- 🤖 Deepening myself in Machine learning and Artifice Intelligence
+- 👾 Intrested in Cybersecurity
+- 🦾 Buildiing project in data Visualization and Computer Vision 
