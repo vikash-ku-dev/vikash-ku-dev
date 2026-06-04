@@ -31,7 +31,9 @@
 <img align="center" src="https://skillicons.dev/icons?i=opencv" />
 </div>
 <br/>
+
 <div align="Right">
+  
 - 🤖 Deepening myself in Machine learning and Artifice Intelligence
 - 👾 Intrested in Cybersecurity
 - 🦾 Buildiing project in data Visualization and Computer Vision 
