@@ -20,10 +20,10 @@
 
 ## 💻 Tech Stack
 <div>
-<img align="Right" src="https://skillicons.dev/icons?i=cpp,python,java,html,css" />
+<img align="Center" src="https://skillicons.dev/icons?i=cpp,python,java,html,css" />
 </div>
 <div>
-<img align="Right"src="https://skillicons.dev/icons?i=javascript,aws,git,github,vscode,opencv" />
+<img align="Center"src="https://skillicons.dev/icons?i=javascript,aws,git,github,vscode,opencv" />
 </div>
 
 - Deepening myself in Machine learning and Artifice Intelligence
