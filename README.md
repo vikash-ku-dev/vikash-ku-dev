@@ -27,9 +27,9 @@
 <img align="center" src="https://skillicons.dev/icons?i=javascript,aws,git,github,vscode" />
 </div>
 <br/>
-<div>
+<p>
 <img align="center" src="https://skillicons.dev/icons?i=opencv" />
-</div>
+</p>
 <br/>
 
 <div align="Right">
