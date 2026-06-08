@@ -9,10 +9,8 @@
 
 
 - 🌱 Learning and building with `AWS`
--  ✨ Student of life :)
 - 💻 Interested in Tech
 - 🤝 Love collaborating with new people
-- ⚡ No sleep, just code and creativity
   <br/>
 <br/>
 <br/>
