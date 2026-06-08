@@ -30,7 +30,7 @@
 </p>
 <br/>
 
-<div align="Right">
+<div align="left">
   
 - 🤖 Deepening myself in Machine learning and Artifice Intelligence
 - 👾 Intrested in Cybersecurity
