@@ -1,7 +1,7 @@
 
 # 👋 Hi there, 
 <div>
-  <img align="right" src="image.png?raw=true" width="30%"/>
+  <img align="right" src="image.png?raw=true" width="40%"/>
 </div>
 <p align="left">I'm Vikash Kumar a tech enthusiastic and currently learning Data Visualization, Artificial Intelligence and Machine learning and also have some intrest in cybersecurity 
 </p>
