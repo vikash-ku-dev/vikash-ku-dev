@@ -1,7 +1,7 @@
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9b980cea-c781-401b-a87e-90954b66f4cb" />
+
 # 👋 Hi there, 
 <div>
-  <img align="right" src="https://github.com/vikash-ku-dev/vikash-ku-dev/blob/main/owl.png?raw=true" width="30%"/>
+  <img align="right" src="https://github.com/user-attachments/assets/9b980cea-c781-401b-a87e-90954b66f4cb?raw=true" width="30%"/>
 </div>
 <p align="left">I'm Vikash Kumar a tech enthusiastic and currently learning Data Visualization, Artificial Intelligence and Machine learning and also have some intrest in cybersecurity 
 </p>
