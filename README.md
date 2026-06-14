@@ -34,5 +34,6 @@
 - 🤖 Deepening myself in Machine learning and Artifice Intelligence
 - 👾 Intrested in Cybersecurity
 - 🦾 Buildiing project in data Visualization and Computer Vision
-- Intrested to building new projects 
+- Intrested to building new Projects
+  
 </div>
