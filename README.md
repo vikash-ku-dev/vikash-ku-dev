@@ -34,7 +34,6 @@
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=vikash-ku-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vikash-ku-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
