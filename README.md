@@ -8,7 +8,6 @@
 
 
 - 🌱 Learning and building with `AWS`
-- 🤖 Done OOPs in python and Java
 - 💻 Interested in Tech
 - 🤝 Love collaborating with new people
   <br/>
@@ -26,6 +25,7 @@
   
 - 🤖 Deepening myself in Machine learning and Artifice Intelligence
 - 👾 Intrested in Cybersecurity
+- 🗿 Done OOPs in python and Java
 - 🦾 Buildiing project in data Visualization and Computer Vision
   
 </div>
