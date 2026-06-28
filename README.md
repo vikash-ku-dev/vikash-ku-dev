@@ -8,6 +8,7 @@
 
 
 - 🌱 Learning and building with `AWS`
+- 🤖 Done OOPs in python and Java
 - 💻 Interested in Tech
 - 🤝 Love collaborating with new people
   <br/>
@@ -17,7 +18,7 @@
 
 # Tech Stack:
 <img align="center" src="https://skillicons.dev/icons?i=cpp,python,java,html,css,anaconda,javascript,metplotlib" />
-<img align="center" src="https://skillicons.dev/icons?i=aws,git,github,vscode,opencv,selenium" />
+<img align="center" src="https://skillicons.dev/icons?i=aws,git,github,vscode,opencv,selenium." />
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 
