@@ -10,6 +10,7 @@
 - 🌱 Learning and building with `AWS`
 - 💻 Interested in Tech
 - 🤝 Love collaborating with new people
+- Building New Projects 
   <br/>
 <br/>
 <br/>
